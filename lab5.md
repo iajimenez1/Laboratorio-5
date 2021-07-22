@@ -52,23 +52,50 @@ Específicos
 
 ![1](https://user-images.githubusercontent.com/75336529/126577072-9e3a64a9-ba82-4528-bc9b-b1ec4f96f893.png)
 
+![p1](https://user-images.githubusercontent.com/75336529/126585793-5acd532b-255d-4a9a-9f63-7c9223a1bbed.png)
+
 3.2.2.- Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 3.2.
+
+![p2](https://user-images.githubusercontent.com/75336529/126585815-fe4cecdb-dcdc-47af-a45a-005b0bfe94bc.png)
+
+![p3](https://user-images.githubusercontent.com/75336529/126585826-03c38362-3a73-4dd7-be56-2a2d6aa0b9ff.png)
 
 3.2.3.- Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 3.1.
 
+![p5](https://user-images.githubusercontent.com/75336529/126585851-2fee6569-c82a-4cd8-bf31-e2127fd2dd87.png)
+
 3.2.4.- Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 3.1.
 
+![p4](https://user-images.githubusercontent.com/75336529/126585840-bd9235d3-52af-418a-baf6-1f1840361321.png)
+
 3.2.5.-Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 3.2.
+
+![p6](https://user-images.githubusercontent.com/75336529/126585854-f385eeb7-2824-4267-8bc1-5d6093c2d630.png)
+
+![p7](https://user-images.githubusercontent.com/75336529/126585858-60ee16af-2697-4337-addb-cf01c9bc86d1.png)
 
 tabla 3.1: Valores del circuito equivalente de thevenin
 |Vth|v|Rth|Ω|
 |---|---|---|---|
-|Calculado| |Calculado| |
-|Medido| |Medido| |
+|Calculado|5.056 |Calculado|298.855 |
+|Medido|5.06 |Medido| 299|
+
+Tabla 3.2: Comprobación del Teorema de Thévenin.
+|Paranetro|Circuito|original |circuito equivalente |thevenin |
+|---|---|---|---|---|
+|Électrico|calculado|medido|calculado|medido|
+|Voltaje(v)|3.89|3.89|3.892|3.89|
+|Corriente(mA)|3.89|3.89|3.892|3.89|
 
 **4.-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 **4.1.-Cálculos realizados**
+
+Calculo circuito original
+
+![2](https://user-images.githubusercontent.com/75336529/126587079-5ddbe1d3-d8d2-46ac-87fc-824de51c36c3.png)
+
+![c1](https://user-images.githubusercontent.com/75336529/126587129-fb5f07ce-aecc-4686-9e2a-89ad6c725a69.png)
 
 Calculo de la resistencia de thevenin
 
