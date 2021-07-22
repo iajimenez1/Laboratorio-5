@@ -112,6 +112,8 @@ Error en la corriente de la resistencia 5
 
 **5.-VIDEO**
 
+https://www.youtube.com/watch?v=Y9DpmE_t1yg
+
 **6.-CONCLUSIONES**
 
 **7.-BIBLIOGRAFIA**
