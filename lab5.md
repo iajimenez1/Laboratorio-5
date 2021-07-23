@@ -27,9 +27,17 @@ Ing. Darwin Alulema
 
 General
 
+Examinar el circuito mediante Thévenin y calcular lo requerido en la carga aplicada del circuito.
+
 Específicos
 
+Calcular la resistencia de Thévenin para el circuito propuesto.
+
+Demostrar el porcentaje de error presentado en el circuito equivalente de Thévenin
+
 **2.-MARCO TEÓRICO**
+
+![diagrama](https://user-images.githubusercontent.com/75336529/126717409-e37c83ff-4cb7-4437-8d1b-13ea427fba8c.jpeg)
 
 **3.-EXPLICACIÓN DEL PROCEDIMIENTO**
 
@@ -143,4 +151,18 @@ https://www.youtube.com/watch?v=Y9DpmE_t1yg
 
 **6.-CONCLUSIONES**
 
+•	Aprendimos que el teorema de THEVENIN se concluye con la ley de Ohm para calcular la corriente circulante en una de las ramas.
+
+•	Es claro que este teorema es muy útil porque nos permite reducir una red de configuración compleja, en una de configuración sencilla.
+
+•	Ciertamente este teorema de Thévenin establece que, si una parte de un circuito eléctrico lineal está comprendida entre dos terminales A y B, esta parte en cuestión puede sustituirse por un circuito equivalente que esté constituido únicamente por un generador de tensión en serie con una resistencia.
+
+•	Concluimos manifestando que, para calcular la resistencia de Thévenin, se desconecta la resistencia de carga, se cortocircuitan las fuentes de tensión y se abren las fuentes de corriente.
+
 **7.-BIBLIOGRAFIA**
+
+Thevenin’s Theorem. (2010). Thevenin. http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/thevenin.html
+
+Becerril, J. V., & Martínez, D. E. (2004). ECUACIONES DIFERENCIALES TÉCNICAS DE SOLUCIÓN Y APLICACIONES (Primera edición). D.R.© 2004 Universidad Autónoma Metropolitana.
+
+Teorema de ThÃ©venin. (2018). thevenin. http://www.sc.ehu.es/sbweb/electronica/elec_basica/tema1/Paginas/Pagina4.htm
